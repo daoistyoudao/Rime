@@ -1,0 +1,18 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	11
+#@/user_id	dbe61972-ceb5-416c-b982-61768449b87d
+en shi 	恩施	c=0 d=0.1 t=6
+tong 	通	c=0 d=0.1 t=4
+xia yi ge 	夏艺歌	c=2 d=1.99501 t=11
+xiang jun 	向军	c=0 d=0.1 t=8
+yue 	岳	c=0 d=0.1 t=8
+yue xiang jun 	岳向军	c=1 d=1 t=9
+zhang 	张	c=0 d=0.1 t=6
+zhang bo 	张博	c=0 d=0.1 t=4
+zhang bo tong 	张博通	c=2 d=1.99501 t=6
+zhang dong di 	张栋迪	c=2 d=1.99501 t=2
+zhang en shi 	张恩施	c=2 d=1.99501 t=8
+zhang hao yun 	张皓云	c=2 d=1.99501 t=4

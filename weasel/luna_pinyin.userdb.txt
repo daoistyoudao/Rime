@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	1
+#@/user_id	dbe61972-ceb5-416c-b982-61768449b87d
+ai shang 	愛上	c=0 d=0.1 t=0
+ai shang da su da 	愛上大蘇打	c=1 d=1 t=1
+da su da 	大蘇打	c=0 d=0.1 t=0
